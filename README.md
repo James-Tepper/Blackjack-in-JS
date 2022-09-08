@@ -1,5 +1,6 @@
-
-  '		<h1>Project Goals</h1>
+  <h1>
+Project Goals
+  </h1>
   <h2> 
 - Obtain a better understanding of JS language syntax <br>
 - Further improve my debugging abilities <br>
